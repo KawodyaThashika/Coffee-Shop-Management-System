@@ -1,5 +1,7 @@
 # ☕ Coffee Shop Management System
 
+Live demo - https://kawodyathashika.github.io/Coffee-Shop-Management-System/
+
 A modern and responsive **Coffee Shop Management System** built with HTML, CSS, and JavaScript. Customers can browse the menu and place orders, while administrators can securely manage and monitor orders through a dedicated dashboard.
 
 ## ✨ Features
@@ -34,9 +36,6 @@ https://kawodyathashika.github.io/Coffee-Shop-Management-System/admin.html
 1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Use the **Admin** link to access the dashboard.
-
-Live demo - https://kawodyathashika.github.io/Coffee-Shop-Management-System/
-
 
 ## 📄 License
 

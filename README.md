@@ -25,6 +25,7 @@ A modern and responsive **Coffee Shop Management System** built with HTML, CSS, 
 
 ## 🔑 Admin Login
 https://kawodyathashika.github.io/Coffee-Shop-Management-System/admin.html
+
 **Username:** `admin`
 **Password:** `admin123`
 

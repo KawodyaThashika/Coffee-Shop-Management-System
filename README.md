@@ -34,6 +34,8 @@ A modern and responsive **Coffee Shop Management System** built with HTML, CSS, 
 2. Open `index.html` in your browser.
 3. Use the **Admin** link to access the dashboard.
 
+Live demo - https://kawodyathashika.github.io/Coffee-Shop-Management-System/
+
 
 ## 📄 License
 
